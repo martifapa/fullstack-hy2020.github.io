@@ -78,7 +78,7 @@ const config = require('./utils/config')
 logger.info(`Server running on port ${config.PORT}`)
 ```
 
-The contents of the <i>index.js</i> file used for starting the application gets simplified as follows:
+The contents of the <i>index.js</i> file used for starting the application get simplified as follows:
 
 ```js
 const app = require('./app') // the actual Express application
