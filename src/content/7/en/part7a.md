@@ -536,7 +536,7 @@ Navigating to the page showing the single anecdote is done by clicking the name 
 
 ![browser showing previous link that was clicked](../../assets/teht/43.png)
 
-#### 7.3: Routed Anecdotes, step3
+#### 7.3: Routed Anecdotes, step 3
 
 The default functionality of the creation form is quite confusing because nothing seems to be happening after creating a new anecdote using the form.
 
